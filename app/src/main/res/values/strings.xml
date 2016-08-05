@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BoilerPlate</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="fresh_config">Fresh Configuration</string>
+    <string name="invite_menu_label">Invite Friend</string>
+    <string name="cause_crash">Cause Crash</string>
+    <string name="sign_in">Sign In</string>
+    <string name="invitation_title">Hai Use My app</string>
+    <string name="invitation_message">Hai the inivite</string>
+    <string name="invitation_cta">Call to BeezKnees</string>
+    <string name="ad_unit_id">ca-app-pub-6216372040684620/8561914992</string>
+</resources>

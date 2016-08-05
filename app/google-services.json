@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "746558214253",
+    "firebase_url": "https://android-sample-1f633.firebaseio.com",
+    "project_id": "android-sample-1f633",
+    "storage_bucket": "android-sample-1f633.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746558214253:android:9de72a13ab92bbd6",
+        "android_client_info": {
+          "package_name": "com.hapihour.boilerplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746558214253-8kags1bmu4lfaf8iklimummbqqd116h9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hapihour.boilerplate",
+            "certificate_hash": "076C30549BC19E8BE202491D4447A693B383E90C"
+          }
+        },
+        {
+          "client_id": "746558214253-34picbssikd5j08ufaat9lkmcjc8i5r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKJLKSlKDkmRBU_H2jjZobMl1AhHgi_pw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746558214253-34picbssikd5j08ufaat9lkmcjc8i5r4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
